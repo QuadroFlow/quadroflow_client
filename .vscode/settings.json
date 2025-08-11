@@ -2,8 +2,10 @@
   "dart.flutterSdkPath": ".fvm/versions/stable",
   "cSpell.words": [
     "cupertino",
+    "debian",
     "grayscale",
     "pubspec",
-    "quadroflow"
+    "quadroflow",
+    "softyes"
   ]
 }
