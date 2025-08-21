@@ -1,11 +1,27 @@
 {
-  "dart.flutterSdkPath": ".fvm/versions/stable",
+  "dart.flutterSdkPath": ".fvm/versions/3.35.1",
   "cSpell.words": [
+    "buildlog",
     "cupertino",
     "debian",
     "grayscale",
+    "msword",
+    "officedocument",
+    "opendocument",
+    "openxmlformats",
+    "powerpoint",
+    "presentationml",
     "pubspec",
     "quadroflow",
-    "softyes"
-  ]
+    "softyes",
+    "spreadsheetml",
+    "swiftpm",
+    "Symbolication",
+    "weba",
+    "WEBA",
+    "webp",
+    "WEBP",
+    "wordprocessingml"
+  ],
+  "makefile.configureOnOpen": false
 }
