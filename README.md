@@ -2,14 +2,14 @@
 
 <img width="100" height="100" src="readme/logo.png" alt="project logo">
 
-# QuadroFlow | Cliente
+# QuadroFlow | Desktop & Web
 
 ![Lançamento no GitHub](https://img.shields.io/github/v/release/QuadroFlow/quadroflow_client?include_prereleases&color=007E7A)
 ![Licença](https://img.shields.io/github/license/QuadroFlow/quadroflow_client?color=007E7A)
 ![Contribuição](https://img.shields.io/badge/contributions-Closed-007E7A)
 
-Uma aplicação de organização visual que combina a simplicidade do quadro Kanban
-com a fluidez de um fluxo de trabalho ágil.
+App Desktop e Web | Uma aplicação de organização visual que combina a
+simplicidade do quadro Kanban com a fluidez de um fluxo de trabalho ágil.
 
 ## 📦 Tecnologias
 
